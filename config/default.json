@@ -1,0 +1,32 @@
+{
+  "mongoURILocal": "mongodb://localhost:27017/gebetaPayment",
+  "mongoURI": "mongodb+srv://yared:yaredqwer@cluster0.ajdxn.mongodb.net/kukuluPayment?retryWrites=true&w=majority",
+  "cbeBirr": "*847*5*5*",
+  
+  "api_key": "T3GevjoO9bO2jYuzTOBD",
+  "Url": "https://api.webirr.com:8080",
+  "merchantId": "131313",
+
+  "TBShortID":"410036",
+  "TBAppID":"1266114d1cc74a9885f30e252d683cca",
+
+  "TBAppKey":"5c72feda7f074f60bb7b369bda3baf36",
+  "TBAPublicID":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmETjk9IGwerNbYxIJsJEx80SQKI4rlbjlLmYU9+NoRiqx2Gk3BD5/xdPRwrZYWv9lbnS8PFMpt2PPc0gj/vgMAgdeSoBVhDK4DIE6xrVisN1hDYQpG7o5NIzpMP8KBHe8cr7il+Af+7VZXcusJ6kQCw4lvdFNtVY777uxohtoZqM0alIwRXoM/uqyiCO2J80fTwBB7O4y+gWCSxeN0uoBkMh/hmxQeBuWnE/dC837yFdd37+Vw9pmI15ORiCXXBB++76OeqkEoHCZJydyYw8YenmMtPurOd4RCYTR14jZD2BLbO6sykdxBMZAX0RH/Mc5GJqd+MYq45s7sNrrxXM4wIDAQAB",
+  "TELE_BIRR_URL":"http://196.188.120.3:11443",
+
+  "COMapi_key": "C4F3M3CQESE2PUJ645GT",
+  "COMUrl": "https://api.webirr.com",
+  "COMmerchantId": "232323",
+
+  
+  "clientID": "",
+  "clientSecret": "",
+  "FbClientID": "",
+  "FbClientSecret": "",
+
+
+  "APP_ID" : "1264327",
+  "APP_KEY" : "46564a936f50d6cde776",
+  "secreate" : "d8f74d7f951ffb610c3c",
+  "cluster" : "ap2"
+}
