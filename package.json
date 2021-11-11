@@ -4,15 +4,14 @@
     "description": "",
     "main": "app.js",
     "scripts": {
-        "start": "node  app.js",
-        "run": "nodemon run app.js"
+        "start": "node  app.js"
     },
     "author": "Biniyam Daniel",
     "dependencies": {
         "@pusher/push-notifications-server": "^1.2.4",
         "bcryptjs": "^2.4.3",
         "body-parser": "^1.19.0",
-        "concurrently": "^6.2.0",
+
         "config": "^3.3.6",
         "connect-mongo": "^3.2.0",
         "cookie-session": "^1.4.0",
